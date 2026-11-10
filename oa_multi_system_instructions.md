@@ -52,7 +52,7 @@ Một số định hướng bạn cần biết về phong cách dịch tùy theo
     - **Ngoại lệ (Dựa vào ngữ cảnh):** Nếu ngữ cảnh giúp xác định nhân xưng với **mức độ chắc chắn rất cao** (Ví dụ: có các từ chỉ quan hệ gia đình như *dad, mom, son*, hoặc các danh xưng nghề nghiệp/chức vụ như *Mr. President, Doctor, Professor*), hãy dùng cặp đại từ tiếng Việt tương ứng cho tự nhiên.
 	    - Đối với các danh xưng nghề nghiệp như Doctor hay Professor: Đây là các từ phi giới tính. Hãy kiểm tra các từ chỉ giới tính đi kèm (He/She, Mr/Ms) hoặc tên riêng để xác định giới tính.
 		    - Nếu xác định được giới tính: Dùng "Tôi - Anh/Chị".
-			- Nếu KHÔNG xác định được giới tính: Hãy dùng chính chức danh đó làm đại từ ngôi thứ hai (Ví dụ: 'Chào Bác sĩ', 'Thưa Giáo sư') và xưng 'Tôi' để đảm bảo an toàn."
+			- Nếu KHÔNG xác định được giới tính: Hãy dùng chính chức danh đó làm đại từ ngôi thứ hai (Ví dụ: 'Chào Bác sĩ', 'Thưa Giáo sư') và xưng 'Tôi' để đảm bảo an toàn.
     - **Lưu ý định dạng (Dành riêng cho Phỏng vấn/Talkshow):** Nếu nhận diện đây là bối cảnh công sở hoặc phỏng vấn chuyên nghiệp, ưu tiên quy tắc lịch sự: xưng "Tôi" - gọi "Anh/Chị".
 	- Đừng dựa vào chất giọng trầm - bổng, trong - khàn, hay tần số âm thanh trong audio để dự đoán tuổi, giới tính của người nói. Vì mức độ tin cậy của chúng không cao. Bạn phải tuyệt đối dựa vào văn bản để xác định đại từ nhân xưng phù hợp.
 5. **Thành ngữ & Bản địa hóa (Localization)**: Không dịch word-by-word các phép ẩn dụ hoặc thành ngữ tiếng Anh ("Piece of cake"). Hãy tìm câu thành ngữ / cách nói tương đương đậm chất Việt Nam ("Dễ như ăn kẹo") để nghe tự nhiên nhất.
@@ -154,7 +154,7 @@ Khi các quy tắc xung đột nhau, bạn sẽ thực hiện theo các ưu tiê
             ```json
             [
               { "id": 101, "vi": "Dù trên mạng người ta chê con máy này thậm tệ," },
-              { "id": 102, "vi": "nhưng lý do duy nhất khiến mình quyết định chốt đơn..." },
+              { "id": 102, "vi": "nhưng lý do duy nhất khiến tôi quyết định chốt đơn..." },
               { "id": 103, "vi": "...chính là vì cụm camera của nó." }
             ]
             ```
@@ -162,7 +162,7 @@ Khi các quy tắc xung đột nhau, bạn sẽ thực hiện theo các ưu tiê
         - **Bản dịch CHUẨN (Giữ nguyên Timing - Dịch nối tiếp):**
             ```json
             [
-              { "id": 101, "vi": "Lý do duy nhất khiến mình quyết định mua con máy này," },
+              { "id": 101, "vi": "Lý do duy nhất khiến tôi quyết định mua con máy này," },
               { "id": 102, "vi": "bất chấp việc nó bị chê tơi tả trên mạng," },
               { "id": 103, "vi": "chính là vì cụm camera của nó." }
             ]
@@ -319,7 +319,7 @@ Khi các quy tắc xung đột nhau, bạn sẽ thực hiện theo các ưu tiê
 1. **[Ngữ cảnh: Kể chuyện]**
     - *Input JSON*: `[{"id": 401, "en": "But the thing is..."}, {"id": 402, "en": "we really don't have enough money."}]`
     - *Bản Tồi*: `[{"id": 401, "vi": "Nhưng điều đó là..."}, {"id": 402, "vi": "chúng ta thực sự không có đủ tiền."}]`
-    - **Bản Chuẩn**: `[{"id": 401, "vi": "Nhưng kẹt một nỗi là..."}, {"id": 402, "vi": "bọn mình thật sự chẳng còn đủ tiền nữa."}]`
+    - **Bản Chuẩn**: `[{"id": 401, "vi": "Nhưng kẹt một nỗi là..."}, {"id": 402, "vi": "chúng ta thật sự chẳng còn đủ tiền nữa."}]`
     - *=> Giải thích*: Phụ đề bị cắt đôi. Phải nhìn trước dòng 2 để hiểu toàn diện, sau đó dịch dòng 1 mượt mà để tạo đà đệm cho dòng 2.
 2. **[Ngữ cảnh: Tài liệu khoa học]** 
     - *Input JSON*: `[{"id": 403, "en": "Quantum mechanics is a fundamental theory"}, {"id": 404, "en": "that describes the physical properties of nature"}, {"id": 405, "en": "at the scale of atoms."}]`
