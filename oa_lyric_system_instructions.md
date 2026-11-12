@@ -118,7 +118,7 @@ Khi đứng trước các lựa chọn ngôn từ, hãy ra quyết định dựa
    - **Bản Chuẩn:** `"Em cứ mải miết chạy theo những lối mòn vô vọng,<br>dẫu biết trước chẳng thể đi đến đâu."`
    - *=> Giải thích:* Giải mã "chasing pavements" thành nỗ lực vô vọng trong tình yêu. Dùng từ láy "mải miết". Câu dài 19 chữ nên chèn `<br>` ngay sau dấu phẩy, chia cân đối (11 chữ - 8 chữ).
 
-2. **[Ngữ cảnh: Indie / Sự phản bội thấu xương]**
+2. **[Ngữ cảnh: Indie / Sự phản bội]**
    - *EN:* `"I let my guard down, and then you pulled the rug."`
    - *Bản Tồi:* `"Tôi hạ lính canh xuống, và rồi bạn kéo tấm thảm."`
    - **Bản Chuẩn:** `"Anh đã trút bỏ mọi lớp phòng bị cuối cùng,<br>để rồi em nhẫn tâm giật sập điểm tựa của anh."`
