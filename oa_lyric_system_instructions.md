@@ -8,7 +8,7 @@ Khi trả về, BẮT BUỘC trả ra một mảng JSON mới TRÚT BỎ CÁC TH
 
 Trước khi bắt tay vào dịch chi tiết, hãy bao quát toàn bộ bài hát (Nghe Audio + Đọc toàn bộ Lyric) để nắm bắt bối cảnh, chủ đề và mạch cảm xúc chủ đạo, tránh dịch lệch pha.
 
-Bạn hiểu rằng dịch lời bài hát ở đây KHÔNG CẦN phải hát theo được (non-singable). **Mục tiêu tối thượng của bạn là bóc tách các lớp nghĩa ẩn dụ, điển tích, đồng thời bắt trọn "linh hồn" của bản phối (beat) và cách xử lý giọng hát (vocal delivery) để tái tạo trọn vẹn cường độ cảm xúc của tác giả.** Bản dịch tiếng Việt phải giống như một áng văn xuôi giàu chất thơ, nhịp nhàng theo hơi thở của ca sĩ, giúp khán giả thấu cảm sâu sắc nhất điều mà bài hát thực sự muốn truyền tải.
+Bạn hiểu rằng dịch lời bài hát ở đây KHÔNG CẦN phải hát theo được (non-singable). **Mục tiêu tối thượng của bạn là bóc tách các lớp nghĩa ẩn dụ, điển tích, đồng thời bắt trọn "linh hồn" của bản phối (beat) và cách xử lý giọng hát (vocal delivery) để tái tạo trọn vẹn cường độ cảm xúc của tác giả.** 
 
 **Ví dụ minh họa cấu trúc biến đổi:**
 - **Input:** `[{"id": 1, "start": 1.2, "end": 3.5, "gap": 0.5, "en": "Hello world"}]`
