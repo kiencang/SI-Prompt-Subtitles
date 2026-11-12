@@ -92,7 +92,7 @@ Hãy kết hợp việc **lắng nghe Giai điệu, Bản phối (Beat), Nhạc 
     - **Nắm bắt cảm xúc ẩn (Vocal Micro-expressions):** Lắng nghe tiếng lấy hơi dài, giọng nghẹn lại, tiếng nức nở, tiếng cười nhếch mép (sarcasm) hay sự bất cần trong cách nhả chữ để chêm thêm tình thái từ hoặc điều chỉnh sắc thái câu dịch (Ví dụ: chữ *"Fine"* hát với giọng nức nở phải dịch là *"Ổn mà... không sao đâu"*, nhưng *"Fine"* gằn giọng dứt khoát phải dịch là *"Được thôi / Tùy em thôi"*).
 
 12. **Nhận diện Ranh giới Giọng hát & Song ca (Voice Boundary & Duet Handling):**
-    - Đối chiếu mốc thời gian `start` và `end` của từng index với Audio để phát hiện chính xác thời điểm chuyển giao giọng hát giữa các ca sĩ (Nam hát chính, Nữ hát chính, Rapper khách mời, hoặc dàn bè).
+    - Đối chiếu mốc thời gian `start` và `end` của từng index với Audio để phát hiện chính xác thời điểm chuyển giao giọng hát giữa các ca sĩ (Nam hát chính, Nữ hát chính, Rapper khách mời, hoặc dàn bè, v.v..).
     - Đảm bảo mỗi khi đổi người hát đối đáp, đại từ nhân xưng và giọng điệu câu dịch phải chuyển biến mượt mà theo đúng nhân vật đang cất tiếng hát.
 </translation_guidelines>
 
